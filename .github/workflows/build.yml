@@ -4,6 +4,9 @@ on:
   push:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -29,3 +32,18 @@ jobs:
           name: materialgear-jar
           path: build/libs/*.jar
           if-no-files-found: error
+
+      # Keeps the latest jar on a 'jar' branch too, so it can be grabbed with plain git.
+      - name: Publish jar to the jar branch
+        if: github.ref == 'refs/heads/main'
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir out && cp build/libs/*.jar out/
+          cd out
+          git init -q -b jar
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -q -m "Jar built from ${GITHUB_SHA::7}"
+          git push -f "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}" jar
