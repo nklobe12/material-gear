@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "materialgear:leaf_leggings",
+    "materialgear:dirt_leggings",
+    "materialgear:hardwood_leggings",
+    "materialgear:coal_leggings",
+    "materialgear:cobblestone_leggings",
+    "materialgear:lapis_leggings",
+    "materialgear:emerald_leggings",
+    "materialgear:obsidian_leggings"
+  ]
+}

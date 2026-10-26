@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "materialgear:leaf_hoe",
+    "materialgear:dirt_hoe",
+    "materialgear:hardwood_hoe",
+    "materialgear:coal_hoe",
+    "materialgear:cobblestone_hoe",
+    "materialgear:lapis_hoe",
+    "materialgear:emerald_hoe",
+    "materialgear:obsidian_hoe"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "materialgear_hoe",
+  "pattern": [
+    "MM",
+    " S",
+    " S"
+  ],
+  "key": {
+    "M": "#materialgear:gear_materials/emerald",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "materialgear:emerald_hoe",
+    "count": 1
+  }
+}

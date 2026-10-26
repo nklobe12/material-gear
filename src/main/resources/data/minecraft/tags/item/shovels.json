@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "materialgear:leaf_shovel",
+    "materialgear:dirt_shovel",
+    "materialgear:hardwood_shovel",
+    "materialgear:coal_shovel",
+    "materialgear:cobblestone_shovel",
+    "materialgear:lapis_shovel",
+    "materialgear:emerald_shovel",
+    "materialgear:obsidian_shovel"
+  ]
+}

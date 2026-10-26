@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "materialgear:dirt"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "materialgear:dirt"
+      }
+    ]
+  }
+}

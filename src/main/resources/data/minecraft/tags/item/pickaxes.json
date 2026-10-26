@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "materialgear:leaf_pickaxe",
+    "materialgear:dirt_pickaxe",
+    "materialgear:hardwood_pickaxe",
+    "materialgear:coal_pickaxe",
+    "materialgear:cobblestone_pickaxe",
+    "materialgear:lapis_pickaxe",
+    "materialgear:emerald_pickaxe",
+    "materialgear:obsidian_pickaxe"
+  ]
+}

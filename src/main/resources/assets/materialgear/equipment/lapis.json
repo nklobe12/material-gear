@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "materialgear:lapis"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "materialgear:lapis"
+      }
+    ]
+  }
+}

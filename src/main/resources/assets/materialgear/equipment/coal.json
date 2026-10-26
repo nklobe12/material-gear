@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "materialgear:coal"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "materialgear:coal"
+      }
+    ]
+  }
+}

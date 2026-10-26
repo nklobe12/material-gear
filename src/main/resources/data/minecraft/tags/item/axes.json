@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "materialgear:leaf_axe",
+    "materialgear:dirt_axe",
+    "materialgear:hardwood_axe",
+    "materialgear:coal_axe",
+    "materialgear:cobblestone_axe",
+    "materialgear:lapis_axe",
+    "materialgear:emerald_axe",
+    "materialgear:obsidian_axe"
+  ]
+}

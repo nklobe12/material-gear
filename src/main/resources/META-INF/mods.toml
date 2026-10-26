@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[66,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="materialgear"
+version="${mod_version}"
+displayName="Material Gear"
+authors="Klobe"
+description='''Full tool and armor sets made from leaves, dirt, logs, coal, cobblestone, lapis, emerald and obsidian.'''
+
+[[dependencies.materialgear]]
+    modId="forge"
+    mandatory=true
+    versionRange="[66,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.materialgear]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[26.3,26.4)"
+    ordering="NONE"
+    side="BOTH"

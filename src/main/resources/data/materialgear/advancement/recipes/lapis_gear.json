@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_material": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:lapis_lazuli"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "materialgear:lapis_sword",
+      "materialgear:lapis_pickaxe",
+      "materialgear:lapis_axe",
+      "materialgear:lapis_shovel",
+      "materialgear:lapis_hoe",
+      "materialgear:lapis_helmet",
+      "materialgear:lapis_chestplate",
+      "materialgear:lapis_leggings",
+      "materialgear:lapis_boots"
+    ]
+  }
+}

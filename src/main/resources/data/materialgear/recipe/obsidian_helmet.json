@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "materialgear_helmet",
+  "pattern": [
+    "MMM",
+    "M M"
+  ],
+  "key": {
+    "M": "#materialgear:gear_materials/obsidian"
+  },
+  "result": {
+    "id": "materialgear:obsidian_helmet",
+    "count": 1
+  }
+}

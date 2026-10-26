@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "materialgear_shovel",
+  "pattern": [
+    "M",
+    "S",
+    "S"
+  ],
+  "key": {
+    "M": "#materialgear:gear_materials/lapis",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "materialgear:lapis_shovel",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "materialgear:leaf_helmet",
+    "materialgear:dirt_helmet",
+    "materialgear:hardwood_helmet",
+    "materialgear:coal_helmet",
+    "materialgear:cobblestone_helmet",
+    "materialgear:lapis_helmet",
+    "materialgear:emerald_helmet",
+    "materialgear:obsidian_helmet"
+  ]
+}

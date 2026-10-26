@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_material": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "materialgear:compressed_cobblestone"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "materialgear:cobblestone_sword",
+      "materialgear:cobblestone_pickaxe",
+      "materialgear:cobblestone_axe",
+      "materialgear:cobblestone_shovel",
+      "materialgear:cobblestone_hoe",
+      "materialgear:cobblestone_helmet",
+      "materialgear:cobblestone_chestplate",
+      "materialgear:cobblestone_leggings",
+      "materialgear:cobblestone_boots"
+    ]
+  }
+}

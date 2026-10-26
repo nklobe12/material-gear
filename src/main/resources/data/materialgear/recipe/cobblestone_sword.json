@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "materialgear_sword",
+  "pattern": [
+    "M",
+    "M",
+    "S"
+  ],
+  "key": {
+    "M": "#materialgear:gear_materials/cobblestone",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "materialgear:cobblestone_sword",
+    "count": 1
+  }
+}

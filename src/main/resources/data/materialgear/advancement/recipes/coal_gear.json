@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_material": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:coals"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "materialgear:coal_sword",
+      "materialgear:coal_pickaxe",
+      "materialgear:coal_axe",
+      "materialgear:coal_shovel",
+      "materialgear:coal_hoe",
+      "materialgear:coal_helmet",
+      "materialgear:coal_chestplate",
+      "materialgear:coal_leggings",
+      "materialgear:coal_boots"
+    ]
+  }
+}

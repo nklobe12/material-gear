@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_material": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:leaves"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "materialgear:leaf_sword",
+      "materialgear:leaf_pickaxe",
+      "materialgear:leaf_axe",
+      "materialgear:leaf_shovel",
+      "materialgear:leaf_hoe",
+      "materialgear:leaf_helmet",
+      "materialgear:leaf_chestplate",
+      "materialgear:leaf_leggings",
+      "materialgear:leaf_boots"
+    ]
+  }
+}

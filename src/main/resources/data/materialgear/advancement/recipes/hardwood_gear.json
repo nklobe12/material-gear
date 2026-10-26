@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_material": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:logs"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "materialgear:hardwood_sword",
+      "materialgear:hardwood_pickaxe",
+      "materialgear:hardwood_axe",
+      "materialgear:hardwood_shovel",
+      "materialgear:hardwood_hoe",
+      "materialgear:hardwood_helmet",
+      "materialgear:hardwood_chestplate",
+      "materialgear:hardwood_leggings",
+      "materialgear:hardwood_boots"
+    ]
+  }
+}

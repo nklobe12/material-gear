@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_material": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:dirt"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "materialgear:dirt_sword",
+      "materialgear:dirt_pickaxe",
+      "materialgear:dirt_axe",
+      "materialgear:dirt_shovel",
+      "materialgear:dirt_hoe",
+      "materialgear:dirt_helmet",
+      "materialgear:dirt_chestplate",
+      "materialgear:dirt_leggings",
+      "materialgear:dirt_boots"
+    ]
+  }
+}

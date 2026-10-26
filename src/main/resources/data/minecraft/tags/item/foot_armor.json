@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "materialgear:leaf_boots",
+    "materialgear:dirt_boots",
+    "materialgear:hardwood_boots",
+    "materialgear:coal_boots",
+    "materialgear:cobblestone_boots",
+    "materialgear:lapis_boots",
+    "materialgear:emerald_boots",
+    "materialgear:obsidian_boots"
+  ]
+}

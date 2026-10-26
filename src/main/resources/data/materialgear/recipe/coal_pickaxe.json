@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "materialgear_pickaxe",
+  "pattern": [
+    "MMM",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "M": "#materialgear:gear_materials/coal",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "materialgear:coal_pickaxe",
+    "count": 1
+  }
+}

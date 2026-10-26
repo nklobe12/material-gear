@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_material": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:obsidian"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "materialgear:obsidian_sword",
+      "materialgear:obsidian_pickaxe",
+      "materialgear:obsidian_axe",
+      "materialgear:obsidian_shovel",
+      "materialgear:obsidian_hoe",
+      "materialgear:obsidian_helmet",
+      "materialgear:obsidian_chestplate",
+      "materialgear:obsidian_leggings",
+      "materialgear:obsidian_boots"
+    ]
+  }
+}

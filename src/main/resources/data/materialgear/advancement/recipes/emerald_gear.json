@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_material": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:emerald"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "materialgear:emerald_sword",
+      "materialgear:emerald_pickaxe",
+      "materialgear:emerald_axe",
+      "materialgear:emerald_shovel",
+      "materialgear:emerald_hoe",
+      "materialgear:emerald_helmet",
+      "materialgear:emerald_chestplate",
+      "materialgear:emerald_leggings",
+      "materialgear:emerald_boots"
+    ]
+  }
+}

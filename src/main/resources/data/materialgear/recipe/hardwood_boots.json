@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "materialgear_boots",
+  "pattern": [
+    "M M",
+    "M M"
+  ],
+  "key": {
+    "M": "#materialgear:gear_materials/hardwood"
+  },
+  "result": {
+    "id": "materialgear:hardwood_boots",
+    "count": 1
+  }
+}

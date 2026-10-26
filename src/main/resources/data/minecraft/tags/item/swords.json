@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "materialgear:leaf_sword",
+    "materialgear:dirt_sword",
+    "materialgear:hardwood_sword",
+    "materialgear:coal_sword",
+    "materialgear:cobblestone_sword",
+    "materialgear:lapis_sword",
+    "materialgear:emerald_sword",
+    "materialgear:obsidian_sword"
+  ]
+}

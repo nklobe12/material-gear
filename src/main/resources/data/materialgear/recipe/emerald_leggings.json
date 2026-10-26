@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "materialgear_leggings",
+  "pattern": [
+    "MMM",
+    "M M",
+    "M M"
+  ],
+  "key": {
+    "M": "#materialgear:gear_materials/emerald"
+  },
+  "result": {
+    "id": "materialgear:emerald_leggings",
+    "count": 1
+  }
+}

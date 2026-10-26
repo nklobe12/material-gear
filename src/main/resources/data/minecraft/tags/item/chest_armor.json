@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "materialgear:leaf_chestplate",
+    "materialgear:dirt_chestplate",
+    "materialgear:hardwood_chestplate",
+    "materialgear:coal_chestplate",
+    "materialgear:cobblestone_chestplate",
+    "materialgear:lapis_chestplate",
+    "materialgear:emerald_chestplate",
+    "materialgear:obsidian_chestplate"
+  ]
+}

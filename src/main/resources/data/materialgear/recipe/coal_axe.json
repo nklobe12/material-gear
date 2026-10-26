@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "materialgear_axe",
+  "pattern": [
+    "MM",
+    "MS",
+    " S"
+  ],
+  "key": {
+    "M": "#materialgear:gear_materials/coal",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "materialgear:coal_axe",
+    "count": 1
+  }
+}
